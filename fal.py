@@ -16,3 +16,7 @@ def find_fal_by_id(fal_id):
         if fal.get("id") == fal_id:
             return fal
     return None
+
+@app.get("/")
+async def read_root():
+    return {"message": "welcome to FAL hafez api ,you can Use /get-fal or /get-fal-post for poems"}
