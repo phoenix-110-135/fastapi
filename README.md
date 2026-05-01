@@ -1,4 +1,3 @@
-```md
 # 📜 FAL API — Hafez Divination Mini Project ✨🔮
 
 A lightweight and fun **FastAPI** mini-project that serves **random Hafez fal** (poems + interpretations) from a simple `fals.json` dataset.  
