@@ -10,3 +10,9 @@ app = FastAPI(
 
 with open("fals.json", "r", encoding="utf-8") as f:
     Hafez_Fals = json.load(f)
+
+def find_fal_by_id(fal_id):
+    for fal in Hafez_Fals:
+        if fal.get("id") == fal_id:
+            return fal
+    return None
