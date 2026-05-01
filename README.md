@@ -97,9 +97,7 @@ FastAPI generates interactive documentation at:
 - Swagger UI: http://127.0.0.1:8000/docs
 
 ### 🖼️ Swagger UI Screenshot
-```md
 ![Swagger UI Screenshot](swagger.png)
-```
 
 ---
 
