@@ -98,7 +98,7 @@ FastAPI generates interactive documentation at:
 
 ### 🖼️ Swagger UI Screenshot
 ```md
-![Swagger UI Screenshot](./swagger.png)
+![Swagger UI Screenshot](swagger.png)
 ```
 
 ---
