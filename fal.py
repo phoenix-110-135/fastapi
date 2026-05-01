@@ -7,3 +7,6 @@ app = FastAPI(
     description="A simple API to get random Hafez poems",
     version="1.0.0",
 )
+
+with open("fals.json", "r", encoding="utf-8") as f:
+    Hafez_Fals = json.load(f)
