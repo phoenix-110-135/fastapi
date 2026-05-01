@@ -30,8 +30,8 @@ Need a specific fal? Just request it by **ID**. Easy, clean, and made for learni
 
 ### 1) Clone
 ```bash
-git clone https://github.com/YOUR_USERNAME/fal-api.git
-cd fal-api
+git clone https://github.com/phoenix-110-135/fastapi.git
+cd fastapi
 ```
 
 ### 2) Install dependencies
